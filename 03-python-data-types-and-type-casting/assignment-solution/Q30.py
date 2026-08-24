@@ -1,0 +1,7 @@
+print(10, "->", type(10))
+print(10.0, "->", type(10.0))
+print("10", "->", type("10"))
+print(True, "->", type(True))
+print("True", "->", type("True"))
+print(None, "->", type(None))
+print("None", "->", type("None"))

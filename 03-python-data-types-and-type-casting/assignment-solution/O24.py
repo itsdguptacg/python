@@ -1,0 +1,10 @@
+s_name="raj"
+s_age=21
+s_heignt=34.56
+is_student=True
+s_result=None
+print(type(s_name))
+print(type(s_age))
+print(type(s_heignt))
+print(type(is_student))
+print(type(s_result))
