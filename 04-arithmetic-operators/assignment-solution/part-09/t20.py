@@ -1,0 +1,7 @@
+print("Addition:", 10 + 3)         
+print("Subtraction:", 10 - 3)      
+print("Multiplication:", 10 * 3)    
+print("Division:", 10 / 3)          
+print("Floor Division:", 10 // 3)   
+print("Modulus:", 10 % 3)           
+print("Exponentiation:", 10 ** 3)   

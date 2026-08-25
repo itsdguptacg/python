@@ -1,0 +1,9 @@
+a=98
+b=4.67
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a%b)
+print(a**b)
