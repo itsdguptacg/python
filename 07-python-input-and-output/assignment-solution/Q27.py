@@ -1,0 +1,5 @@
+a=int(input("enter nu 1: "))
+b=int(input("enter nu 2: "))
+print(f"No 1 is {a}")
+print(f"No 2 is {b}")
+print(f"Sum is {a+b}")

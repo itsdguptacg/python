@@ -1,0 +1,5 @@
+price=float(input("enter Price : "))
+quantity=int(input("enter Quantity: "))
+print(f"Price is {price}")
+print(f"Quantity is {quantity}")
+print(f"Total is {price+quantity}")
